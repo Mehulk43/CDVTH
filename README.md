@@ -1,6 +1,6 @@
 # CDVTH
 
-Implementation code for research project on CDVTH (Cross-Domain Vision Transformer Hybrid).
+Implementation code for research project on CDVTH (COntrastive Dual Vision Transformer Hashing Module).
 
 ## Overview
 
